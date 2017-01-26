@@ -1,6 +1,6 @@
 # redux-object-connect
 
-This is a library that wraps the connect function from react-redux to enable passing an object in place of a mapStateToProps function.
+This is a library that wraps the connect function from [react-redux](https://github.com/reactjs/react-redux) to enable passing an object in place of a mapStateToProps function.
 
 Installation
 -----------
