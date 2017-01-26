@@ -3,7 +3,7 @@ import babel from 'rollup-plugin-babel';
 export default {
   entry: 'src/index.js',
   format: 'cjs',
-  dest: 'index.js',
+  dest: 'build/index.js',
   external: ['react-redux'],
   plugins: [
       babel({

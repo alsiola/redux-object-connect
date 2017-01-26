@@ -2,7 +2,7 @@
   "name": "redux-object-connect",
   "version": "0.1.0",
   "description": "A wrapper for react-redux's connect function to allow an object literal notation in mapStateToProps",
-  "main": "index.js",
+  "main": "build/index.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/alsiola/redux-object-connect.git"
