@@ -1,0 +1,30 @@
+{
+  "name": "redux-object-connect",
+  "version": "0.1.0",
+  "description": "A wrapper for react-redux's connect function to allow an object literal notation in mapStateToProps",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alsiola/redux-object-connect.git"
+  },
+  "keywords": [
+    "react",
+    "redux",
+    "connect",
+    "flux"
+  ],
+  "author": "Alex Young",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alsiola/redux-object-connect/issues"
+  },
+  "homepage": "https://github.com/alsiola/redux-object-connect#readme",
+  "dependencies": {
+    "react-redux": "^5.0.2"
+  },
+  "devDependencies": {
+    "babel-plugin-external-helpers": "^6.22.0",
+    "babel-preset-es2015": "^6.22.0",
+    "rollup-plugin-babel": "^2.7.1"
+  }
+}
