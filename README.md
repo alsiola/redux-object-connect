@@ -14,7 +14,7 @@ Usage
 The original connect function requires mapStateToProps to be a function with a single argument (state), for example,
 
 ````
-import { selector } from './wherever/your/selector/is';
+import { selector1, selector2, selector3 } from './wherever/your/selectors/are';
 import { connect } from 'react-redux';
 
 const YourComponent = ....
