@@ -48,3 +48,4 @@ const mapDispatchToProps = {};
 
 export default connect(mapStateToProps, mapDispatchToProps);
 ````
+N.B. It is still possible to use the original function syntax as mapStateToProps with redux-object-connect - the result will be identical to using the react-redux connect function.
